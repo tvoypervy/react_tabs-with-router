@@ -4,7 +4,7 @@ import './App.scss';
 import { NavLink, Routes, Route, Navigate } from 'react-router-dom';
 import { HomePage } from './pages/HomePage';
 import { NotFoundPage } from './pages/NotFoundPage';
-import { TabsPage } from './pages/TabsPagE';
+import { TabsPage } from './pages/TabsPage';
 import classname from 'classnames';
 
 export const App = () => (
